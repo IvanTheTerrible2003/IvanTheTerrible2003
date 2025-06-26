@@ -2,7 +2,7 @@
 
 I write code for all sorts of things, I'm always coding and always learning. Currently in my last semester of software engineering.
 
-📊 Stats:
+# 📊 Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=IvanTheTerrible2003&starting_year=2023)](https://git.io/streak-stats)
 
