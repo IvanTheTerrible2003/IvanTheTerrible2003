@@ -2,9 +2,6 @@
 
 I write code for all sorts of things, I'm always coding and always learning. Currently in my last semester of software engineering.
 
-# 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=IvanTheTerrible2003&theme=transparent&hide_border=true&border_radius=4&starting_year=2023)](https://git.io/streak-stats)
-
 # 💻 Languages
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
