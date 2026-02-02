@@ -1,6 +1,6 @@
 ## Hello my fellow developers. My name is Iván (like Iván the Terrible hahaha funny joke get it?)
 
-I write code for all sorts of things, I'm always coding and always learning. Currently in my last semester of software engineering.
+I write code for all sorts of things, I'm always coding and always learning. Just finished my last semester of software engineering.
 
 # 📊 Stats:
 
