@@ -9,7 +9,3 @@ Currently learning and working with:
 - Parallel computing
 - Numerical methods
 - Linux and HPC environments
-
-## Projects
-
-Here you'll find a mix of university projects, personal projects, and experiments as I explore HPC and systems programming.
